@@ -1,0 +1,7 @@
+Name ID Department Position AnnualLeave CompassionateLeave EmergencyLeave MaternityLeave MedicalLeave
+John C1 IT WebDeveloper 7 2 0 60 9
+Jane C2 HR Assistant 8 3 2 60 14
+Jay C3 Academic Lecturer 8 3 2 60 14
+James C4 IT Technician 8 3 2 60 14
+Adam C5 HR Treasurer 8 3 2 60 14
+Joe C6 Academic Lecturer 8 3 2 60 14

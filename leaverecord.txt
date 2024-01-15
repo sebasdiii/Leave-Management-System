@@ -1,0 +1,6 @@
+Name ID LeaveType Day Month Year Duration Status
+Jay C3 Medical 20 3 2023 2 Rejected
+James C4 Annual 19 3 2023 3 Approved
+Adam C5 Emergency 15 4 2023 1 Pending
+John C1 Maternity 22 3 2023 1 Pending
+

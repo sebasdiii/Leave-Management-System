@@ -1,0 +1,6 @@
+Leave Applications Report for month 3:
+Name                ID        Type                Date           Status
+-----------------------------------------------------------------------
+Jay                 C3        Medical             20/03/2023    Rejected
+James               C4        Annual              19/03/2023    Pending
+John                C1        Maternity           22/03/2023    Pending
